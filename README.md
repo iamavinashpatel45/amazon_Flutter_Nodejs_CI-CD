@@ -1,6 +1,6 @@
 # Amazon Clone
 
-Full Stack Amazon Clone along with Admin Panel
+Full Stack Amazon Clone along with Admin Panel 
 
 ## Features
 - Email & Password Authentication
