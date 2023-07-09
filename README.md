@@ -11,7 +11,7 @@ Full Stack Amazon Clone along with Admin Panel
 - Rating
 - Getting Deal of the Day
 - Cart
-- Checking out with Google/Apple Pay 
+- Checking out with Google/Apple Pay  
 - Viewing My Orders 
 - Viewing Order Details & Status
 - Sign Out
