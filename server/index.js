@@ -22,7 +22,7 @@ app.use(userRouter);
 
 // Connections
 mongoose
-  .connect(DB)
+  .connect(mongo)
   .then(() => {
     console.log("Connection Successful");
   })
