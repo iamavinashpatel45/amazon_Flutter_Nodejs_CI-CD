@@ -21,7 +21,7 @@ Full Stack Amazon Clone along with Admin Panel
     - Deleting Products
     - Viewing Orders
     - Changing Order Status
-    - Viewing Total Earnings
+    - Viewing Total Earnings 
     - Viewing Category Based Earnings (on Graph)
 
 ## YouTube
