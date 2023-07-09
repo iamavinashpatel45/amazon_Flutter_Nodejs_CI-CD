@@ -10,7 +10,7 @@ const userRouter = require("./routes/user");
 // INIT
 const PORT = process.env.PORT || 3000;
 const app = express();
-const mong =
+const mongo =
   "mongodb+srv://avipatel_45:avipatel45@cluster0.kmzsxzj.mongodb.net/?retryWrites=true&w=majority";
   
 // middleware
