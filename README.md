@@ -6,7 +6,7 @@ Full Stack Amazon Clone along with Admin Panel
 - Email & Password Authentication
 - Persisting Auth State
 - Searching Products
-- Filtering Products (Based on Category)
+- Filtering Products (Based on Category) 
 - Product Details
 - Rating
 - Getting Deal of the Day
