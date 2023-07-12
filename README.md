@@ -8,7 +8,7 @@ Full Stack Amazon Clone along with Admin Panel
 - Searching Products 
 - Filtering Products (Based on Category) 
 - Product Details
-- Rating
+- Rating 
 - Getting Deal of the Day
 - Cart
 - Checking out with Google/Apple Pay  
